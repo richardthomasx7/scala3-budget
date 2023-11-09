@@ -1,0 +1,2 @@
+object BudgetConfig:
+    val apiKey = ""
